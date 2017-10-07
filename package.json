@@ -1,7 +1,7 @@
 {
   "name": "robinplate",
   "version": "0.1.0",
-  "homepage": "http://neilff.github.io/robinplate",
+  "homepage": "http://Robinhoeh.github.io/linterapp",
   "private": true,
   "dependencies": {
     "react-scripts": "1.0.14"
@@ -17,3 +17,5 @@
     "test": "react-scripts test --env=jsdom"
   }
 }
+
+
